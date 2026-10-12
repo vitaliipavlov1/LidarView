@@ -1,0 +1,9 @@
+# LidarView runtime + staged libraries (~900 MB) -- re-fetch with scripts/fetch.sh
+/runtime/
+
+# Sample datasets (~200 MB) -- re-fetch with scripts/fetch.sh
+/data/
+
+# LidarView / ParaView session leftovers
+*.pvsm
+*.pvd
